@@ -1,0 +1,24 @@
+$ cd /
+$ ls
+1 dgflmqwt.srm
+dir gnpd
+1 hbnlqs
+dir jsv
+dir mfhzl
+dir nljtr
+dir nwzp
+1 qdswp.wfj
+1 rbq.hpj
+dir rfwwwgr
+dir sbnhc
+dir zhfl
+$ cd gnpd
+$ ls
+dir dcqq
+dir dnscfz
+dir dwqbhgc
+dir lsrb
+1 ndwfr.pbv
+dir pbgrdvmc
+dir sbnhc
+dir smfhldss
